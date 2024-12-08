@@ -1,10 +1,10 @@
-#Manipulador de Imagens com OpenCV
+# Manipulador de Imagens com OpenCV
 
 Projeto de manipulação de imagens desenvolvido em Python com OpenCV e PyQt6. Oferece uma interface intuitiva e funcionalidades essenciais para editar e processar imagens.
 
-##Funcionalidades:
+## Funcionalidades:
 
-###Filtros de Imagem:
+### Filtros de Imagem:
 
   Passa-baixa (Media, Mediana e Gaussian).
   Passa-alta (Laplace e Solbel).
