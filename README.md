@@ -4,19 +4,19 @@ Projeto de manipulação de imagens desenvolvido em Python com OpenCV e PyQt6. O
 
 ## Funcionalidades:
 
-### Filtros de Imagem:
+### - Filtros de Imagem:
    - Passa-baixa (Media, Mediana e Gaussian).  
    - Passa-alta (Laplace e Solbel).  
-### Ajustes de Brilho e Contraste.
-### Kernels Personalizados: Criação de filtros customizados.
-### Operações Morfológicas: 
+### - Ajustes de Brilho e Contraste.
+### - Kernels Personalizados: Criação de filtros customizados.
+### - Operações Morfológicas: 
    - Erosão
    - Dilatação
    - Fechamento...
 
-### Detecção de Contornos.
-### Undo e Redo.
-### Converter em tons de Cinza.
+### - Detecção de Contornos.
+### - Undo e Redo.
+### - Converter em tons de Cinza.
 #### Interface Gráfica com PyQt6 (Arquivos .UI incluídos no repositório.)
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico. Embora o código ainda precise de organização, ele está funcional e foi testado com casos básicos.  
