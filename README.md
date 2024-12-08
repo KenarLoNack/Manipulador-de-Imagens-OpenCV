@@ -17,5 +17,5 @@ Projeto de manipulação de imagens desenvolvido em Python com OpenCV e PyQt6. O
 ### Detecção de Contornos.
 
 ### Interface Gráfica com PyQt6 (Arquivos .UI incluídos no repositório.)
-<br> 
+
 Este projeto foi desenvolvido como parte de um trabalho acadêmico. Embora o código ainda precise de organização, ele está funcional e foi testado com casos básicos.  
