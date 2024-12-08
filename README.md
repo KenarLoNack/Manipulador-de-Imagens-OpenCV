@@ -7,11 +7,8 @@ Projeto de manipulação de imagens desenvolvido em Python com OpenCV e PyQt6. O
 ### Filtros de Imagem:
    - Passa-baixa (Media, Mediana e Gaussian).  
    - Passa-alta (Laplace e Solbel).  
-<br>
 ### Ajustes de Brilho e Contraste.
-<br>
 ### Kernels Personalizados: Criação de filtros customizados.
-<br>
 ### Operações Morfológicas: 
    - Erosão
    - Dilatação
